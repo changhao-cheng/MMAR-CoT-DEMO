@@ -1,9 +1,9 @@
-# MMAR COT Demo
+# MMAR CoT Demo
 
 This repository hosts a public demo page for a curated subset of 30 MMAR audio samples.
 
 ## Demo
-GitHub Pages: `https://changhao-cheng.github.io/MMAR-COT-DEMO/`
+GitHub Pages: `https://changhao-cheng.github.io/MMAR-CoT-DEMO/`
 
 ## About
 This project visualizes selected MMAR samples, including:
